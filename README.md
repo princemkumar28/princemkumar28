@@ -31,216 +31,29 @@
 
 ---
 
-## 🧠 What I'm Currently Exploring
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/princekumar05903) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__prince.kr_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/princekumar28) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PrinceK56369671) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:theprincem28@gmail.com) 
 
-```text
-Full Stack Development   ███████████████████░   90%
-Python & Backend         ██████████████████░░   85%
-Machine Learning         ███████████████░░░░░   70%
-AI / Intelligent Systems █████████████░░░░░░░   65%
-DevOps & Deployment      ████████████░░░░░░░░   60%
-```
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=princemkumar28&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=princemkumar28&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=princemkumar28&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=princemkumar28&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-# 🛠️ Tech Stack
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 👨‍💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,r,js,html,css" />
-</p>
-
-### ⚙️ Backend & Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs" />
-</p>
-
-### 🤖 AI / ML / Computer Vision
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### ☁️ Deployment & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,render,anaconda,figma" />
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=princemkumar28&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=princemkumar28&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 💰 AI Personal Finance Tracker
-
-AI-powered personal finance platform designed to help users automatically track, categorize and understand their expenses.
-
-**Focus:**
-`AI` `ML` `Python` `FastAPI` `MongoDB` `Frontend`
-
-</td>
-
-<td width="50%">
-
-### 🤖 Machine Learning Projects
-
-A collection of ML experiments and implementations covering algorithms, data preprocessing, model evaluation and practical applications.
-
-**Focus:**
-`Python` `NumPy` `Pandas` `PyTorch` `Scikit-Learn`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌐 Full Stack Applications
-
-Web applications built using modern frontend and backend technologies with REST APIs and database integration.
-
-**Focus:**
-`JavaScript` `HTML` `CSS` `FastAPI` `Django` `Node.js`
-
-</td>
-
-<td width="50%">
-
-### 🧪 More Projects Coming Soon...
-
-Currently experimenting with new ideas across **AI, ML, Full Stack Development and intelligent systems.**
-
-</td>
-</tr>
-</table>
-
-> ⭐ Check my repositories for more projects and experiments.
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=princemkumar28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princemkumar28&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=princemkumar28&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princemkumar28&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/princemkumar28/princemkumar28/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=princemkumar28&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-</p>
-
----
-
-# 📌 GitHub Highlights
-
-<p align="center">
-
-<img src="https://img.shields.io/github/stars/princemkumar28?style=for-the-badge&logo=github&label=TOTAL%20STARS"/>
-
-<img src="https://img.shields.io/github/followers/princemkumar28?style=for-the-badge&logo=github&label=FOLLOWERS"/>
-
-<img src="https://img.shields.io/github/commit-activity/y/princemkumar28?style=for-the-badge&logo=github&label=COMMITS"/>
-
-</p>
-
----
-
-# 📊 My GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princemkumar28&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&include_all_commits=true" />
-</p>
-
----
-
-# 🧩 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princemkumar28&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area_color=70A5FD&area=true&hide_border=true" />
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:theprincem28@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/princekumar28">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/__prince.kr_">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://x.com/PrinceK56369671">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://discord.gg/princekumar05903">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💭 Developer Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
 
 <h3 align="center">
   🚀 Code • Learn • Build • Repeat
